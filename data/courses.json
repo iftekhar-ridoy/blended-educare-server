@@ -1,0 +1,186 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "total_cost": 5500,
+        "title": "React Front To Back 2022",
+        "author": {
+            "name": "Iftekharul Islam",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
+        "image_url": "https://blog.wildix.com/wp-content/uploads/2020/06/react-logo.jpg",
+        "details": "This course is for anyone that wants to learn React and also for React developers looking to build some projects and sharpen their skills. The first project (Feedback App) is structured in a way so I can explain the fundamentals such as components, hooks, props, state, etc in a way that beginners can understand. The second project (Github Finder) will show you how to work with 3rd party APIs and the third project (House Marketplace) is a larger app that uses Firebase 9 and includes authentication, Firestore queries, file storage and more. The final project has been added! It is a fullstack MERN support ticket system that uses Redux and Redux Toolkit.Here are some of the things you will learn in this course: React fundamentals including components, props, hooks, state, etc React hooks such as useState, useEffect, useContext, useReducer, useRef, etc Creating custom hooks React Router v6 (latest version) How to handle global state with context, reducers and hooks Firebase 9 authentication, queries, storage Deploying React apps to Vercel & Netlify Basic Animation with Framer Motion Implement Leaflet maps and Swiper sliders Fullstack MERN (MongoDB, Express, React, Node.js) REST API creation Redux Redux Toolkit Authentication with JWT Much More... This course has been completely re-done with new projects and concepts from the old course. I have a few React courses and this is the one that I always suggest people start with before moving on to the MERN courses"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "total_cost": 3500,
+        "title": "Build Responsive Real-World Websites with HTML and CSS",
+        "author": {
+            "name": "Armanul Islam",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://programadoresbrasil.com.br/wp-content/uploads/2020/02/Introduction-to-HTML-and-CSS-for-Beginners-Hafiza-Rabbia-Shafiq.jpg",
+        "image_url": "https://programadoresbrasil.com.br/wp-content/uploads/2020/02/Introduction-to-HTML-and-CSS-for-Beginners-Hafiza-Rabbia-Shafiq.jpg",
+        "details": "Open a new browser tab, type in www.omnifood.dev, and take a look around. I will wait here... ... Amazing, right? What if you knew exactly how to design and build a website like that, completely from scratch? How amazing would that be? Well, I'm here to teach you HTML, CSS, and web design, all by building the stunning website that you just saw, step-by-step. So, after finishing this course, you will know exactly how to build a beautiful, professional, and ready-to-launch website just like Omnifood, by following a 7-step process. And it will even look great on any computer, tablet, and smartphone. But what if you want to build a completely different website? Well, no problem! I designed the course curriculum with exactly this goal: to enable you to design and build any website that you can think of, not just copy the course project."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 300,
+        "total_cost": 23000,
+        "title": "The Complete Web Developer Course 2.0",
+        "author": {
+            "name": "Ridoy Sarker",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://archive.org/download/web-development-designing-anvar-freelancer-1/Web-development-designing-Anvar-Freelancer-1.png",
+        "image_url": "https://archive.org/download/web-development-designing-anvar-freelancer-1/Web-development-designing-Anvar-Freelancer-1.png",
+        "details": "You’re here because you’re ready to start building professional, career-boosting websites. Or maybe you’re coding already and want to take things to the next level? I’m here because I’m the creator of the best-selling, highest-rated coding courses on Udemy—and I love to share my secrets with you. Welcome to The Complete Web Developer Course 2.0 Based on feedback from over 25,000 5-star reviews, I’ve created The Complete Web Developer Course 2.0, the sequel to my global smash-hit: Build 14 Websites course. It’s my most current, in-depth and exciting coding course—to date. Designed for you—no matter where you are in your coding journey—my next-generation web developer course is overflowing with fresh content. Jam-packed with high-quality tutorials.  And crucially, features the most advanced, hot-off-the-press software versions. It’s your fast-track to iron-clad coding results. We’ve left no stone unturned. I guarantee, this is THE most thorough, laser-focused and up-to-date coding course available ANYWHERE on the market—or your money back. Whether you’re an entrepreneur, an innovator or the next Mark Zuckerberg just waiting to happen, here you’ll find everything you need to get up and coding—fast. And it’s all in one perfectly-packaged, super-convenient online solution. “It is hard to find a complete course out there that is like this one. I am amazed at the value of the content and I would without a doubt recommend it to anyone looking for a complete web developing course.” -Daniel Lim From zero to break-neck speed in just six weeks. What else makes my course different?  It’ll take you from beginner to expert in just six weeks (or take it at your own pace—whatever suits you). “I went from total novice to getting my first paid client, before I’d even finished the course. Almost unbelievable!” Priti Palmer. Don’t be the one to get left behind Get started today and join millions of my happy students, many of whom have changed careers, created second incomes or added critical new skills to their tool kits. Oh, and did I mention you get FREE unlimited hosting for one year? Sign up to The Complete Web Developers Course 2.0 today and revolutionise your learning. Effortlessly embed the fundamentals. Refresh your groundwork. Dig deeper than ever. Start building powerful apps and cash-earning websites today—and enjoy bigger, brighter opportunities. “Excellent course gives you everything you need to know for doing awesome websites!” - Steven De Jesús Don’t believe me? I offer full money back guarantee if you haven’t earned your money back within 60 days of completing the course. Ready to open new doors and become a smart, in-demand web developer? Here’s what you get with The Complete Web Developer Course 2.0 You’ll get access to twelve chapters that dig deep into the nitty gritty of building successful websites. Each chapter is supported with over 40 hours of clear, intelligent video tutorials and practical website challenges. All at your fingers tips. Right now. The course starts with the fundamentals. I’ll show you insider tips to work quickly and efficiently with web technologies like HTML5, CSS3 and Python. Once you’ve got that locked down, I’ll show you how to build your own responsive websites using more advanced techniques such as jQuery PHP 7, MySQL 5 and Twitter Bootstrap. By then you’ll be developing blogs and eCommerce sites with Wordpress, and learn smart ways to add dynamic content, using APls to connect to sites such as Google Maps and Facebook. As we all know, the best way to learn is to do, so you’ll complete fun website challenges at every turn. Plus, as you fly through the course, you’ll use your skills to put a site together as you go. The final challenge is a full Twitter clone. “Very easy to follow along with how the course has been divided into small topics. The summary pages at the end of each topic are very useful to review if you have to take a break from the course, allowing you to pick up right where you left off.” - Andrea Price-Lace."
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 411,
+        "total_cost": 5000,
+        "title": "Python and Django Full Stack Web Developer Bootcamp",
+        "author": {
+            "name": "Monjurul Haque",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://miro.medium.com/max/1000/1*_9-cdWY38xCy59pk6ddcwQ.png",
+        "image_url": "https://miro.medium.com/max/1000/1*_9-cdWY38xCy59pk6ddcwQ.png",
+        "details": "Welcome to the Python and Django Full Stack Web Developer Bootcamp! In this course we cover everything you need to know to build a website using Python, Django, and many more web technologies! Whether you want to change career paths, expand your current skill set, start your own entrepreneurial business, become a consultant, or just want to learn, this is the course for you! We will teach you the latest technologies for building great web applications with Python 3 and Django! But we don't just teach that, we also teach the Front End technologies you need to know, including HTML, CSS, and Javascript. This course can be your one stop shop for everything you need! It will serve as a useful reference for many of your questions as you begin your journey in becoming a web developer! This course is designed so that anyone can learn how to become a web developer. We teach you how to program by using HD Video Lectures, Walkthrough Code Projects, Exercises, Concept Presentation Slides, Downloadable Code Notes, Reading Assignments, and much more!."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "05",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "total_cost": 9000,
+        "title": "Figma UI UX Design Essentials",
+        "author": {
+            "name": "Kajiul Arafat",
+            "published_date": "2022-08-24 23:15:00",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://cache.careers360.mobi/media/article_images/2021/9/22/Become-Skilled-at-Figma-Using-These-16-Courses-Right-Now.jpg",
+        "image_url": "https://cache.careers360.mobi/media/article_images/2021/9/22/Become-Skilled-at-Figma-Using-These-16-Courses-Right-Now.jpg",
+        "details": "Hi there - my name is Dan Scott & welcome to Figma Essentials. Together - you and me - are going to learn everything you need to get started working as a UX Designer using Figma. We’ll use this UI UX design tool to create beautiful User Interfaces and engaging prototypes. Most importantly... we'll cover the client expectations of you as a new UX designer. This course is aimed at people new to design, new to User Experience design. Even if you’re not totally sure what UX really means, don’t worry. We’ll start right at the beginning and work our way through step by step. First we’ll describe the brief & how to work with a UX persona. Then you’ll learn how to create simple wireframes. From there we’ll look at how to implement colours & images properly in your designs. You’ll learn the do’s & don’ts around choosing fonts for web & mobile apps. You’ll learn how to create your own icons, buttons & other UI components. You’ll learn some pretty scary terms such as Components, Constraints & Multi Dimensional Variants. They are all really easy to understand once you know how. We’ll also make our lives easier by using free UI kits & plugins for Figma which will speed up our workflow dramatically! We’ll build a simple Style Guide ready for client handoff. You’ll understand how to make both simple & advanced micro interactions, page transitions & animations Before the end of this course you will have made fully interactive prototypes You will take a project all the way through - collaborating with other team members and exporting the right files ready to hand off to your developer or software engineer. We’ll be focusing on the software Figma but I’ll make sure to explain the techniques & terms used in the UX and how real world projects are run. You will develop a great understanding of the industry and will be able to manage your own UX projects. I will be setting assignments through the course which will help develop your skills and enable you to create something special and unique for your own portfolio. Alright - it's time to upgrade yourself & go from Figma Zero to Figma Hero."
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "06",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "total_cost": 7990,
+        "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "author": {
+            "name": "Mr. Iftekhar",
+            "published_date": "2022-08-24 23:15:00",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://i.ytimg.com/vi/gcKPaX1Dc8A/maxresdefault.jpg",
+        "image_url": "https://i.ytimg.com/vi/gcKPaX1Dc8A/maxresdefault.jpg",
+        "details": "This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications. You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects. You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job. And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up! But... You don't have to go into all these topics. This is a huge course, because, after all, it's --- The Complete JavaScript Course---. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster. By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer."
+    },
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "07",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 505,
+        "total_cost": 7990,
+        "title": "Photoshop Master Course: From Beginner to Photoshop Pro",
+        "author": {
+            "name": "Kumar Natasha",
+            "published_date": "2022-08-30 15:00:04",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://admin.oll.co/uploads/course/course_LEARN%20ADOBE%20PHOTOSHOP_21122001112021000000.png",
+        "image_url": "https://admin.oll.co/uploads/course/course_LEARN%20ADOBE%20PHOTOSHOP_21122001112021000000.png",
+        "details": "My approach is: One thing I have learned through all the years of working with Adobe Photoshop is that knowing and understanding the essentials of adobe photoshop is just as fundamental as the heavier and trickier Photoshop techniques when it comes to honing your craft. This Photoshop Beginner course is multifaceted. You do not need any previous knowledge of Photoshop, Design or Photography. We start by going through the essentials of Photoshop. A step-by-step guide on photoshop workspace, every single tool and its function(s). After we've established the essentials, we can now build on our foundation. In the next part of the photoshop course, we head into a basic Photoshop Portrait Retouching Course. From here the following lectures will deal with the more advanced photoshop techniques to really improve your Photoshop skills and the pace at which you work. I've added a bonus lecture towards the end of the course. That focuses on what & how when it comes to using a Wacom tablet in photoshop. I've also added a bonus lecture that focuses on the next steps. Where to find more free photoshop lectures and how to progress with your photoshop workflow.."
+    },
+    {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "08",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 111,
+        "total_cost": 4990,
+        "title": "Complete WordPress Developer Course 2022 - Plugins & Themes",
+        "author": {
+            "name": "system",
+            "published_date": null,
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://www.digiengland.in/wp-content/uploads/2018/06/wordpress-training-in-jalandhar.jpg",
+        "image_url": "https://www.digiengland.in/wp-content/uploads/2018/06/wordpress-training-in-jalandhar.jpg",
+        "details": "Hello! Welcome to the WordPress development course. This is the most comprehensive and effective course on WordPress development around. This is the only course you'll ever need to learn WordPress development. WordPress currently holds a majority of the market share on the web. WordPress is an absolute dominant force and its popularity continuously grows. One of the best things about WordPress is that it's easily extendable. There are thousands of plugins and themes available both free and premium. In this course, I will teach you how to create your very own plugins and themes. This course was designed for those who truly want to master WordPress inside and out. There is no stone left unturned. This course will help make you into one of the most competitive WordPress developers out there. You will be able to develop custom plugins and themes no matter how hard the task is. You can expect high-quality and fresh tutorials. This course uses the latest versions of software development including PHP (8.x), and MySQL/MariaDB (8.x) . Here is an overview of what you can expect to learn. Take a static HTML template and convert it into a fully functioning WordPress theme. Write code that scales and learn the best practices for writing clean, efficient, secure, and reusable code. The WordPress coding standards are covered from PHP to JavaScript and CSS. Properly take advantage of the template hierarchy system and create your own custom templates for more unique designs. Build plugins that extend the core functionality of WordPress. Develop custom post types for content that give you the flexibility to curate content you want to. Apply metadata to your content and display everything on the front end. Learn about the various methods for creating your own custom admin forms and processing the data securely. Other topics include licensing, translations, security, authentication, full-site editing, block development and so much more! The APIs that are covered are the following: Database API, HTTP API, Metadata API, Options API, Plugins API, REST API, Rewrite API, and Settings API. On top of everything, you will also learn how to create your very own Gutenberg blocks. Take advantage of the newest feature that comes bundled with WordPress 6! Not confident with your React and JavaScript skills? That's completely fine! The skills required to build efficient and scalable Gutenberg blocks are covered in this course. You'll learn how to use Node, Webpack, Babel, and React In a nutshell, we'll explore the various WordPress APIs and how they should be used. The developer documentation is filled with examples and each page is quite lengthy. WordPress development doesn't have to be hard to learn. The biggest mistake most coding tutorials make is expecting someone to learn simply by imitating others' code. Real-world situations are never exactly like the tutorial. I believe the best way to learn is to understand how a tool works and what it does for you, look at examples, and then try it yourself. That's how this course is built, with the goal to help you both learn and understand WordPress. Take the leap into Gutenberg Development This course goes beyond the simple WordPress plugin development and WordPress theme development tutorials. You will learn how to create Gutenberg Blocks for WordPress as the back end. The CEO of WordPress, Matt Mullenweg, has urged developers to start learning JavaScript deeply. You will first learn the basics such as the command line and ES6. You will be caught up with the latest standards of JavaScript from modules to destructuring and so much more! Tools such as babel and webpack are also explored and implemented with our code. We will build a functioning WordPress Gutenberg block with React. Build components to separate your code. All this knowledge is right at your fingertips! Why am I qualified to teach this course? I've been developing sites in WordPress for over 10 years. I know all the tricks to work with WordPress. I don't fool around. You will learn all my techniques and teach you the exact process I go through. I've sold commercial themes and plugins with over 1000+ sales worldwide. I know what it takes to create stuff that works! There is no useless information here in this course. It's all 100% high-quality content and nothing less. I guarantee you will absolutely love this course and see real results. You'll have the skills and confidence to build your own custom themes and plugins your clients will love. You'll be able to take on bigger projects for more money. Don't believe me? I offer a 100% refund within 30 days. There is absolutely no risk involved! Don't be the one that gets left behind! Enroll and start learning today"
+    }
+]

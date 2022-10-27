@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "React Front To Back 2022"
+    },
+    {
+        "id": "02",
+        "name": "Build Responsive Real-World Websites with HTML and CSS"
+    },
+    {
+        "id": "03",
+        "name": "The Complete Web Developer Course 2.0"
+    },
+    {
+        "id": "04",
+        "name": "Python and Django Full Stack Web Developer Bootcamp"
+    },
+    {
+        "id": "05",
+        "name": "Figma UI UX Design Essentials"
+    },
+    {
+        "id": "06",
+        "name": "The Complete JavaScript Course 2022: From Zero to Expert!"
+    },
+    {
+        "id": "07",
+        "name": "Photoshop Master Course: From Beginner to Photoshop Pro"
+    },
+    {
+        "id": "08",
+        "name": "Complete WordPress Developer Course 2022 - Plugins & Themes"
+    }
+]
